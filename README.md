@@ -1,21 +1,21 @@
 # HacktoberFest 2022
 Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR). GitHub hosts many open source repositories that contribute to Microsoft Learn content.
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip), There we are merging all PR. 
+# Submit your PR on this new repo [Hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip), There we are merging all PR. 
 
 **This is a beginner-friendly project to help you get started with your
-[hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 💙 !!**
+[hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 💙 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
 Hacktoberfest 2022
-![Event Completed](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip)
+![Event Completed](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip)
 
 # 📌 Videos 📽️:
 
-- [Hacktoberfest Intro](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip)
-- [How to pull request [Overview]](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip)
-- [Merge Conflict / comment](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip)
+- [Hacktoberfest Intro](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip)
+- [How to pull request [Overview]](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip)
+- [Merge Conflict / comment](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip)
 
 
 # Contribution Rules📚:
@@ -33,7 +33,7 @@ Hacktoberfest 2022
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip
+git clone https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip
 ```
 - Navigate to project directory.
 ```terminal
@@ -78,11 +78,11 @@ git status
 ## Swags of Hacktoberfest:
 - Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
  
-     <li><B><p><img src="https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip*https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip*https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
+     <li><B><p><img src="https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip*https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip*https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
 </b></li>
 
 # FAQs (Frequently Asked Questions)
 
 - Who all can contribute?
   - Anyone with a github account and who is signed up for
-[hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/Structured Data/Fest_Hacktober_3.4.zip) :)
+[hacktoberfest](https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip Codes/Structured https://github.com/Girish-shedge/HacktoberFest2022/raw/refs/heads/main/Python Codes/String Objects/Fest-Hacktober-2.4-beta.5.zip) :)
